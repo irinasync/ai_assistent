@@ -3,7 +3,7 @@
 
 ссылка на проект - @WindosGuid_bot
 
-![Иллюстрация к проекту](https://github.com/irinasync/ai_assistent/blob/main/2025-05-24_12-39-25.png?raw=true)
+![Ссылка 1](https://github.com/irinasync/ai_assistent/blob/main/2025-05-24_12-39-25.png?raw=true)
 
 
 ## Описание проекта
